@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.example.demo.domain.models;
 
 public class HelloMessage {
 	private String name;
